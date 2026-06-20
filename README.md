@@ -23,8 +23,7 @@ I work on the defensive side of security: detection, monitoring, and incident re
 
 ### Find me
 
-- 📫 [vikneshvaran87@gmail.com]
-- 💼 [LinkedIn URL]
+- 💼 https://www.linkedin.com/in/vikneshvaran
 
 ---
 
