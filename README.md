@@ -14,12 +14,11 @@ I work on the defensive side of security: detection, monitoring, and incident re
 ### Currently
 
 - Building out detection content and small SOC tooling (see pinned repos)
-- [Studying for / holding: e.g. Security+, BTL1, CySA+ — edit or remove]
+- [Studying for / holding: e.g. Security+, BTL1, CySA+]
 
 ### Stack & tools
 
 `Python` · `KQL / SPL` · `Sigma` · `Cloudflare Workers` · `SQL` · `React`
-[Edit to match your actual toolset — SIEM, EDR, etc.]
 
 ### Find me
 
