@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Viki 👋
+
+**Security Operations · Blue Team** — based in Malaysia.
+
+I work on the defensive side of security: detection, monitoring, and incident response. I also build things — I like understanding systems well enough to both defend *and* ship them.
+
+### What I'm focused on
+
+- 🛡️ Detection engineering & SOC operations
+- 🔍 Log analysis, threat hunting, and incident response
+- ⚙️ Automating the boring parts of analyst work
+- ☁️ Building on modern edge/serverless stacks
+
+### Currently
+
+- Building out detection content and small SOC tooling (see pinned repos)
+- [Studying for / holding: e.g. Security+, BTL1, CySA+ — edit or remove]
+
+### Stack & tools
+
+`Python` · `KQL / SPL` · `Sigma` · `Cloudflare Workers` · `SQL` · `React`
+[Edit to match your actual toolset — SIEM, EDR, etc.]
+
+### Find me
+
+- 📫 [vikneshvaran87@gmail.com]
+- 💼 [LinkedIn URL]
+
+---
 
 <!--
-**vishal5589/vishal5589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This file renders on your GitHub profile page because the repo name
+matches your username exactly. Edit the bracketed bits and delete this comment.
 -->
