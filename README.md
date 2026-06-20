@@ -14,7 +14,6 @@ I work on the defensive side of security: detection, monitoring, and incident re
 ### Currently
 
 - Building out detection content and small SOC tooling (see pinned repos)
-- [Studying for / holding: e.g. Security+, BTL1, CySA+]
 
 ### Stack & tools
 
