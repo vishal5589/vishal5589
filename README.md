@@ -19,10 +19,6 @@ I work on the defensive side of security: detection, monitoring, and incident re
 
 `Python` · `KQL / SPL` · `Sigma` · `Cloudflare Workers` · `SQL` · `BeyondTrust PasswordSafe`
 
-### Find me
-
-- 💼 https://www.linkedin.com/in/vikneshvaran
-
 ---
 
 <!--
