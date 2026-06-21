@@ -17,7 +17,7 @@ I work on the defensive side of security: detection, monitoring, and incident re
 
 ### Stack & tools
 
-`Python` · `KQL / SPL` · `Sigma` · `Cloudflare Workers` · `SQL` · `BeyondTrust PasswordSafe`
+`Python` · `KQL / SPL` · `Sigma` · `Cloudflare Workers` · `SQL` · `BeyondTrust PasswordSafe` . `PaloAlto Xsiam`
 
 ---
 
