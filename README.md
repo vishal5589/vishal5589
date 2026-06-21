@@ -1,27 +1,42 @@
 # Hi, I'm Viki 👋
 
-**Security Operations · Blue Team** — based in Malaysia.
+🛡️ Assistant Manager – IT Security (SecOps)
 
-I work on the defensive side of security: detection, monitoring, and incident response. I also build things — I like understanding systems well enough to both defend *and* ship them.
+🇲🇾 Penang, Malaysia
 
-### What I'm focused on
+I work on the defensive side of cybersecurity, focusing on:
 
-- 🛡️ Detection engineering & SOC operations
-- 🔍 Log analysis, threat hunting, and incident response
-- ⚙️ Automating the boring parts of analyst work
-- ☁️ Building on modern edge/serverless stacks
+- Detection Engineering
+- Security Operations (SOC)
+- Incident Response
+- Threat Hunting
+- Privileged Access Management (PAM)
+- Security Automation
 
-### Currently
+## Currently
 
-- Building out detection content and small SOC tooling (see pinned repos)
+🔭 Building security tooling and automation projects
 
-### Stack & tools
+🌱 Learning AI-assisted Security Operations and Detection Engineering
 
-`Python` · `KQL / SPL` · `Sigma` · `Cloudflare Workers` · `SQL` · `BeyondTrust PasswordSafe` . `PaloAlto Xsiam`
+## Stack
+
+`Python` `KQL` `SPL` `SQL`
+`Cloudflare Workers`
+`Docker`
+`Palo Alto`
+`BeyondTrust Password Safe`
+`XDR`
+`SIEM`
+
+## Featured Repositories
+
+- 🔐 Security Operations Portal
+- 💰 MoneyAllMatters
+
+## Connect
+
+LinkedIn: linkedin.com/in/vikneshvaran
 
 ---
-
-<!--
-This file renders on your GitHub profile page because the repo name
-matches your username exactly. Edit the bracketed bits and delete this comment.
--->
+*"Automating repetitive work so analysts can focus on real threats."*
