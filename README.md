@@ -33,7 +33,8 @@ I work on the defensive side of cybersecurity, focusing on:
 
 - 🔐 Security Operations Portal
 - 💰 MoneyAllMatters
-- 🛡️ [Secure Self-Hosted Home Lab](https://github.com/vishal5589/secure-selfhosted-homelab) — defense-in-depth infrastructure: documented threat model, ADRs, fail-closed egress, and secrets-scanning CI
+- 🛡️ Secure Self-Hosted Home Lab
+- JARVIS-Personal AI
 
 ## Connect
 
