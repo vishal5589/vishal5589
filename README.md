@@ -36,7 +36,7 @@ I work on the defensive side of cybersecurity, focusing on:
 
 ## Connect
 
-LinkedIn: linkedin.com/in/vikneshvaran
+LinkedIn - Attached in my proflie.
 
 ---
 *"Automating repetitive work so analysts can focus on real threats."*
